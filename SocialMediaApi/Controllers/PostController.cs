@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SocialMedia.Core.Interfaces;
 using SocialMedia.Infrastructure.Repositories;
+using System.Threading.Tasks;
 
 namespace SocialMediaApi.Controllers
 {
@@ -14,9 +15,9 @@ namespace SocialMediaApi.Controllers
         {
             _postRepository = postRepository;
         }
-        public IActionResult GetPosts()
+        public async Task<IActionResult> GetPosts()
         {
-            var posts = _postRepository.GetPosts();
+            var posts = await _postRepository.GetPosts();
             return Ok(posts);
         }
 
