@@ -20,7 +20,7 @@ namespace SocialMedia.Infrastructure.Repositories
         }
 
         public async Task<IEnumerable<Post>> GetPosts()
-        {
+        {   
             var posts = await _context.Posts.ToListAsync();
             return posts;
         }
@@ -28,6 +28,12 @@ namespace SocialMedia.Infrastructure.Repositories
         {
             var post = await _context.Posts.FirstOrDefaultAsync(x=>x.PostId ==id);
             return post;
+        }
+
+        public async Task InserPost(Post post)
+        {
+            _context.Posts.Add(post);
+            await _context.SaveChangesAsync();
         }
 
     }
