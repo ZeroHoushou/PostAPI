@@ -5622,25 +5622,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sistemas13\\.nuget\\packages\\": {},
+    "C:\\Users\\Zero\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
+      "projectUniqueName": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
       "projectName": "SocialMedia.IntegrationTest",
-      "projectPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
-      "packagesPath": "C:\\Users\\sistemas13\\.nuget\\packages\\",
-      "outputPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.IntegrationTest\\obj\\",
+      "projectPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
+      "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.IntegrationTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\sistemas13\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -5704,7 +5704,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

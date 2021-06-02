@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desarrollo\\SocialMediaApi\\SocialMediaApi\\SocialMedia.Api.csproj": {}
+    "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj": {}
   },
   "projects": {
-    "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+    "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
-        "projectPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Core\\SocialMedia.Core.csproj",
-        "packagesPath": "C:\\Users\\sistemas13\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Core\\obj\\",
+        "projectPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sistemas13\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -63,25 +63,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+    "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
         "projectName": "SocialMedia.Infrastructure",
-        "projectPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\sistemas13\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sistemas13\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -97,8 +97,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
@@ -146,25 +146,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Desarrollo\\SocialMediaApi\\SocialMediaApi\\SocialMedia.Api.csproj": {
+    "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\SocialMediaApi\\SocialMediaApi\\SocialMedia.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj",
         "projectName": "SocialMedia.Api",
-        "projectPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMediaApi\\SocialMedia.Api.csproj",
-        "packagesPath": "C:\\Users\\sistemas13\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMediaApi\\obj\\",
+        "projectPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj",
+        "packagesPath": "C:\\Users\\Zero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMediaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sistemas13\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -180,11 +180,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj"
               },
-              "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
-                "projectPath": "D:\\Desarrollo\\SocialMediaApi\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
+              "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Zero\\Documents\\GitHub\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
               }
             }
           }
@@ -228,7 +228,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
