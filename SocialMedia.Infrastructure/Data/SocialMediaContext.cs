@@ -33,7 +33,6 @@ namespace SocialMedia.Infrastructure.Data
 
             modelBuilder.ApplyConfiguration(new UserConfiguration());
 
-
         }
 
        
