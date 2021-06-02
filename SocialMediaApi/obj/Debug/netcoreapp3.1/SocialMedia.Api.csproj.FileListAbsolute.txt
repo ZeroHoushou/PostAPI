@@ -135,3 +135,5 @@ D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\obj\Debug\netcoreapp3.1\
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
