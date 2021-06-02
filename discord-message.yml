@@ -1,0 +1,25 @@
+name: Notification on push
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Discord notification
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        DISCORD_USERNAME: Ayame Nakiri
+        DISCORD_AVATAR: https://i.pinimg.com/474x/dc/95/8d/dc958d533078fa3c19458c3d4f4da37b.jpg
+      uses: Ilshidur/action-discord@master
+      with:
+        args: 'A new commit has been pushed to Ilshidur/action-discord.'
+    - name: Discord notification
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      uses: Ilshidur/action-discord@master
