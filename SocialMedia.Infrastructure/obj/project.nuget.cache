@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "++hz3YuFzvEpNktaVSqKY9CYtE+74uH28EV/tO6+T2zObij7gSYhqn791wRod1nLn4tquHlssGv9NBUYStXHhQ==",
+  "dgSpecHash": "C0Jn9ooCX6w4IVNS8jYns6/QttAKQGHfjtZZiQCDbFHlnZfn7YKNmhuqhhSn0J1vO7/gigUxNTlb6Bs5uHTtmQ==",
   "success": true,
   "projectFilePath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -59,7 +59,7 @@
     "C:\\Users\\sistemas13\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\sistemas13\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
     "C:\\Users\\sistemas13\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\sistemas13\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\sistemas13\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\sistemas13\\.nuget\\packages\\system.componentmodel.primitives\\4.3.0\\system.componentmodel.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\sistemas13\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
     "C:\\Users\\sistemas13\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",

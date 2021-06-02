@@ -37,7 +37,12 @@ namespace SocialMediaApi
                 
                 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             
-            });
+            })
+                //Configuration to use APIController but without using the validations, since I will do them manually.
+                .ConfigureApiBehaviorOptions(options=>
+                {
+                    options.SuppressModelStateInvalidFilter = true;
+                });
 
 
             services.AddDbContext<SocialMediaContext>(options =>
