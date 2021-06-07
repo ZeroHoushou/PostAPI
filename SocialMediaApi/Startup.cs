@@ -43,7 +43,7 @@ namespace SocialMediaApi
                 //Configuration to use APIController but without using the validations, since I will do them manually.
                 .ConfigureApiBehaviorOptions(options=>
                 {
-                    options.SuppressModelStateInvalidFilter = true;
+                    //options.SuppressModelStateInvalidFilter = true;
                 });
 
 
