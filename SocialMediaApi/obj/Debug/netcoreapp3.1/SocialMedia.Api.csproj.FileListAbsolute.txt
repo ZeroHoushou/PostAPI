@@ -137,3 +137,9 @@ D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMediaApi\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs

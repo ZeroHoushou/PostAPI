@@ -43,7 +43,7 @@ namespace SocialMediaApi.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest();
+                return BadRequest(ModelState);
             }
 
 
