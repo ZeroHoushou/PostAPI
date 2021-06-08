@@ -16,11 +16,30 @@ namespace SocialMedia.Core.Services
 
         }
 
+        public async Task<bool> DeletePost(int id)
+        {
+            return await _postRepository.DeletePost(id);
+        }
+
+        public async Task<IEnumerable<Post>> GetPosts()
+        {
+            return await _postRepository.GetPosts();
+        }
+
+        public async Task<Post> GetPost(int id)
+        {
+            return await _postRepository.GetPost(id);
+        }
+
         public async Task InsertPost(Post post)
         {
 
             await _postRepository.InsertPost(post);
         }
-        
+
+        public async Task<bool> UpdatePost(Post post)
+        {
+          return await _postRepository.UpdatePost(post);
+        }
     }
 }

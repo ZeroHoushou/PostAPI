@@ -15,3 +15,4 @@ D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
