@@ -10,10 +10,11 @@ namespace SocialMedia.Core.Services
     public class PostService : IPostService
     {
         private readonly IPostRepository _postRepository;
-        public PostService(IPostRepository postRepository)
+        private readonly IUserRepository _userRepository;
+        public PostService(IPostRepository postRepository, IUserRepository userRepository)
         {
             _postRepository = postRepository;
-
+            _userRepository = userRepository;
         }
 
         public async Task<bool> DeletePost(int id)
@@ -33,6 +34,15 @@ namespace SocialMedia.Core.Services
 
         public async Task InsertPost(Post post)
         {
+            var user = await _userRepository.GetUser(post.UserId);
+            if (user == null)
+            {
+                throw new Exception("Usuario no existe"); //Excepcion de dominio personalizada
+            }
+            if (post.Description.Contains("Sexo"))
+            {
+                throw new Exception("Content not allowed");
+            }
 
             await _postRepository.InsertPost(post);
         }
