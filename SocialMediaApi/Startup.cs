@@ -52,9 +52,11 @@ namespace SocialMediaApi
                       options.UseSqlServer(Configuration.GetConnectionString("SocialMedia"))
                       );
             //Dependencys
-            services.AddTransient<IPostRepository , PostRepository>();
+            //services.AddTransient<IPostRepository , PostRepository>();
             services.AddTransient<IPostService, PostService>();
-            services.AddTransient<IUserRepository, UserRepository>();
+            //services.AddTransient<IUserRepository, UserRepository>();
+            services.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
 
 
             services.AddMvc(options =>
