@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w+B7Pa3T43mSMj0x4jUE/zTkUaauPB5gfxEuN/X8pXxDDN/KY0QT3fp2w7iCPdu+vMOqIHLgAs64r6jmAcC7xw==",
+  "dgSpecHash": "W6vdJaVlzNp+xn9F0cPEaqjFBLgc/Q5KFLR9cnhbi827riRILK6S/AoSxrDJIat/SySEa9/Cx6QFPEWhO7sN1g==",
   "success": true,
-  "projectFilePath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj",
+  "projectFilePath": "D:\\Desarrollo\\PostAPI\\SocialMediaApi\\SocialMedia.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sistemas13\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\sistemas13\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

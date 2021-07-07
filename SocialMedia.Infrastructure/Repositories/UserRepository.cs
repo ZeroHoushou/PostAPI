@@ -25,7 +25,7 @@ namespace SocialMedia.Infrastructure.Repositories
 
         public async Task<User> GetUser(int id)
         {
-            var post = await _context.Users.FirstOrDefaultAsync(x => x.UserId == id);
+            var post = await _context.Users.FirstOrDefaultAsync(x => x.Id == id);
             return post;
         }
 

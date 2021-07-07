@@ -10,3 +10,15 @@ D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Infrastructure\bin\Debug\ne
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.deps.json
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb

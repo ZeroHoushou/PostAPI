@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dd2SPXutg2NbX7dbZrzPc6Uuhz275FAEf+F40ocu/x/Z79HZBN5TSSReZc825QSkRYqBSZieDx9O2zvJqSpPCw==",
+  "dgSpecHash": "6Qmkq5rE4rmUeG2/N/pcZJ9AUnxBJAUy0U0Min7V97xFSYCQ0KEBud5RRTNXtDv96hDgQpFpKlxQ9kWJsX4Kug==",
   "success": true,
-  "projectFilePath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
+  "projectFilePath": "D:\\Desarrollo\\PostAPI\\SocialMedia.IntegrationTest\\SocialMedia.IntegrationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sistemas13\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\sistemas13\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

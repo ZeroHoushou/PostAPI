@@ -16,3 +16,12 @@ D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
 D:\Desarrollo\PostAPI-Clean-Architecture\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
+D:\Desarrollo\PostAPI\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+D:\Desarrollo\PostAPI\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\Desarrollo\PostAPI\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.AssemblyReference.cache
+D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
+D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb

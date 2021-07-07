@@ -5629,11 +5629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+      "projectUniqueName": "D:\\Desarrollo\\PostAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
       "projectName": "SocialMedia.UnitTests",
-      "projectPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+      "projectPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
       "packagesPath": "C:\\Users\\sistemas13\\.nuget\\packages\\",
-      "outputPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.UnitTests\\obj\\",
+      "outputPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5704,7 +5704,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aqznZ/3pPhfzTI/G2kiBjwHhPEMMB/e8JvDYq/3eOQbQWFlIxAulIbKGBozZ2cYOxpv76pfDzAggW6QWEh4Zkw==",
+  "dgSpecHash": "iig+IQoJG0IdFZ5QW/vZzcSVQL9du5xAh974GZoBKTUVgRyFnj5l9gUarM/zI9dv28OAEvz77ZpZmBmhuXrR4w==",
   "success": true,
-  "projectFilePath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "projectFilePath": "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sistemas13\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sistemas13\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

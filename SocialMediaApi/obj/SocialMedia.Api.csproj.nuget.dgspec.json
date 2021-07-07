@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj": {}
+    "D:\\Desarrollo\\PostAPI\\SocialMediaApi\\SocialMedia.Api.csproj": {}
   },
   "projects": {
-    "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+    "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
-        "projectPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "packagesPath": "C:\\Users\\sistemas13\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\obj\\",
+        "outputPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -63,18 +63,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+    "D:\\Desarrollo\\PostAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\PostAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
         "projectName": "SocialMedia.Infrastructure",
-        "projectPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "projectPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sistemas13\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\obj\\",
+        "outputPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -97,8 +97,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
@@ -162,18 +162,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj": {
+    "D:\\Desarrollo\\PostAPI\\SocialMediaApi\\SocialMedia.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\PostAPI\\SocialMediaApi\\SocialMedia.Api.csproj",
         "projectName": "SocialMedia.Api",
-        "projectPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMediaApi\\SocialMedia.Api.csproj",
+        "projectPath": "D:\\Desarrollo\\PostAPI\\SocialMediaApi\\SocialMedia.Api.csproj",
         "packagesPath": "C:\\Users\\sistemas13\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMediaApi\\obj\\",
+        "outputPath": "D:\\Desarrollo\\PostAPI\\SocialMediaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -196,11 +196,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
               },
-              "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
-                "projectPath": "D:\\Desarrollo\\PostAPI-Clean-Architecture\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
+              "D:\\Desarrollo\\PostAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+                "projectPath": "D:\\Desarrollo\\PostAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
               }
             }
           }
@@ -252,7 +252,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
