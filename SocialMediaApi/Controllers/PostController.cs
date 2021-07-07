@@ -7,6 +7,8 @@ using System.Linq;
 using AutoMapper;
 using System.Collections.Generic;
 using SocialMedia.Api.Responses;
+using System;
+using SocialMedia.Core.QueryFilters;
 
 namespace SocialMediaApi.Controllers
 {
@@ -24,9 +26,9 @@ namespace SocialMediaApi.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetPosts()
+        public IActionResult GetPosts([FromQuery]PostQueryFilter filters)
         {
-            var posts =  _postService.GetPosts();
+            var posts =  _postService.GetPosts(filters);
             var postsDto = _mapper.Map<IEnumerable<PostDto>>(posts);
             var response = new ApiResponse<IEnumerable<PostDto>>(postsDto);
             return Ok(postsDto);
