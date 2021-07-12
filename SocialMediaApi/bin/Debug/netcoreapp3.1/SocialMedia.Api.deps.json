@@ -1667,6 +1667,9 @@
         }
       },
       "SocialMedia.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "5.0.0"
+        },
         "runtime": {
           "SocialMedia.Core.dll": {}
         },
