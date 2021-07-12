@@ -9,6 +9,8 @@ using System.Collections.Generic;
 using SocialMedia.Api.Responses;
 using System;
 using SocialMedia.Core.QueryFilters;
+using System.Net;
+using Newtonsoft.Json;
 
 namespace SocialMediaApi.Controllers
 {
@@ -26,11 +28,26 @@ namespace SocialMediaApi.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType((int)HttpStatusCode.OK )]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest)]
+
         public IActionResult GetPosts([FromQuery]PostQueryFilter filters)
         {
             var posts =  _postService.GetPosts(filters);
             var postsDto = _mapper.Map<IEnumerable<PostDto>>(posts);
             var response = new ApiResponse<IEnumerable<PostDto>>(postsDto);
+
+            var metadata = new
+            {
+                posts.TotalCount,
+                posts.PageSize,
+                posts.CurrentPage,
+                posts.TotalPage,
+                posts.HastNextPage,
+                posts.HasPreviousPage
+            };
+
+            Response.Headers.Add("X-Pagination",JsonConvert.SerializeObject(metadata));
             return Ok(postsDto);
         }
 
