@@ -16,6 +16,7 @@ using SocialMedia.Infrastructure.Interfaces;
 
 namespace SocialMediaApi.Controllers
 {
+    [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
     public class PostController : ControllerBase
@@ -31,6 +32,14 @@ namespace SocialMediaApi.Controllers
             _uriService = uriService;
         }
 
+
+
+
+        /// <summary>
+        /// Retrieve all posts
+        /// </summary>
+        /// <param name="filters">Filters to apply</param>
+        /// <returns></returns>
         [HttpGet(Name =nameof(GetPosts))]
         [ProducesResponseType((int)HttpStatusCode.OK )]
         [ProducesResponseType((int)HttpStatusCode.BadRequest)]

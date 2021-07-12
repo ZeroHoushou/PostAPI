@@ -153,3 +153,12 @@ D:\Desarrollo\PostAPI\SocialMediaApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\So
 D:\Desarrollo\PostAPI\SocialMediaApi\obj\Debug\netcoreapp3.1\SocialMedia.Api.RazorTargetAssemblyInfo.cache
 D:\Desarrollo\PostAPI\SocialMediaApi\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CopyComplete
 D:\Desarrollo\PostAPI\SocialMediaApi\obj\Debug\netcoreapp3.1\SocialMedia.Api.genruntimeconfig.cache
+D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\SocialMedia.Api.xml
+D:\Desarrollo\PostAPI\SocialMediaApi\obj\Debug\netcoreapp3.1\SocialMedia.Api.xml
