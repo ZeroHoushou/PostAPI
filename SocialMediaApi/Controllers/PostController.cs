@@ -13,9 +13,11 @@ using System.Net;
 using Newtonsoft.Json;
 using SocialMedia.Core.CustomEntities;
 using SocialMedia.Infrastructure.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 
 namespace SocialMediaApi.Controllers
 {
+    [Authorize]
     [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
