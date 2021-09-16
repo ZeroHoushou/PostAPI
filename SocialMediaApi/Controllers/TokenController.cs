@@ -9,6 +9,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
+using SocialMedia.Core.Interfaces;
 
 namespace SocialMedia.Api.Controllers
 {
@@ -17,38 +18,43 @@ namespace SocialMedia.Api.Controllers
     public class TokenController:ControllerBase
     {
         private readonly IConfiguration _configuration;
-        public TokenController(IConfiguration configuration)
+        private readonly ISecurityService _securityService;
+        public TokenController(IConfiguration configuration, ISecurityService securityService)
         {
             _configuration = configuration;
+            _securityService = securityService;
         }
         [HttpPost]
-        public IActionResult Authentication( UserLogin login ) 
-        { 
-            if(IsValidUser())
+        public async Task<IActionResult> Authentication( UserLogin login ) 
+        {
+            var validation = await IsValidUser(login);
+            if(validation.Item1)
             {
-                var token = GenerarToken();
+                var token = GenerarToken(validation.Item2);
                 return Ok(new { token  });
             }
 
             return NotFound();
         }
 
-        private bool IsValidUser()
+        private async Task<(bool,Security)> IsValidUser(UserLogin login)
         {
-            return true;
+            var user = await _securityService.GetLoginByCredentials(login);
+            return (user !=null,user);
         }
 
-        private string GenerarToken()
+        private string GenerarToken(Security security)
         {
+            //Header
             var _symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Authentication:SecretKey"]));
             var signinCredentials = new SigningCredentials(_symmetricSecurityKey, SecurityAlgorithms.HmacSha256);
             var header = new JwtHeader(signinCredentials);
 
             var claims = new[]
             {
-                 new Claim(ClaimTypes.Name,"Zero Houshou"),
-                 new Claim (ClaimTypes.Email,"zero@gmail.com"),
-                 new Claim (ClaimTypes.Role, "Administrator")
+                 new Claim(ClaimTypes.Name,security.UserName),
+                 new Claim("User",security.User),
+                 new Claim (ClaimTypes.Role, security.Role.ToString())
             };
 
             //Payload
@@ -58,7 +64,7 @@ namespace SocialMedia.Api.Controllers
                 _configuration["Authentication:Audience"],
                 claims,
                 DateTime.Now,
-                DateTime.UtcNow.AddMinutes(2)
+                DateTime.UtcNow.AddMinutes(10)
             );
 
             var token = new JwtSecurityToken(header,payload);

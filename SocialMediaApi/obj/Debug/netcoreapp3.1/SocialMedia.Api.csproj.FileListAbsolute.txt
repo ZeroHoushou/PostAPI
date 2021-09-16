@@ -163,3 +163,4 @@ D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetC
 D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\SocialMedia.Api.xml
 D:\Desarrollo\PostAPI\SocialMediaApi\obj\Debug\netcoreapp3.1\SocialMedia.Api.xml
 D:\Desarrollo\PostAPI\SocialMediaApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desarrollo\PostAPI\SocialMediaApi\obj\Debug\netcoreapp3.1\SocialMedia.Api.GeneratedMSBuildEditorConfig.editorconfig

@@ -192,3 +192,4 @@ D:\Desarrollo\PostAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.
 D:\Desarrollo\PostAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.UnitTests.dll
 D:\Desarrollo\PostAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.UnitTests.pdb
 D:\Desarrollo\PostAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.UnitTests.genruntimeconfig.cache
+d:\Desarrollo\PostAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.UnitTests.GeneratedMSBuildEditorConfig.editorconfig

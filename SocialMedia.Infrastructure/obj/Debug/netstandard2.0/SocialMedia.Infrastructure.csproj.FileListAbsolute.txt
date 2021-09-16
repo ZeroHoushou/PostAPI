@@ -22,3 +22,4 @@ D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\Social
 D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
 D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
 D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+D:\Desarrollo\PostAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig

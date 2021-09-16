@@ -192,3 +192,4 @@ D:\Desarrollo\PostAPI\SocialMedia.IntegrationTest\obj\Debug\netcoreapp3.1\Social
 D:\Desarrollo\PostAPI\SocialMedia.IntegrationTest\obj\Debug\netcoreapp3.1\SocialMedia.IntegrationTest.dll
 D:\Desarrollo\PostAPI\SocialMedia.IntegrationTest\obj\Debug\netcoreapp3.1\SocialMedia.IntegrationTest.pdb
 D:\Desarrollo\PostAPI\SocialMedia.IntegrationTest\obj\Debug\netcoreapp3.1\SocialMedia.IntegrationTest.genruntimeconfig.cache
+d:\Desarrollo\PostAPI\SocialMedia.IntegrationTest\obj\Debug\netcoreapp3.1\SocialMedia.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig

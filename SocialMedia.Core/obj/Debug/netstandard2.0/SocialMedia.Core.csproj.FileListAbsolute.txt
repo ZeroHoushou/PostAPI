@@ -25,3 +25,4 @@ D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core
 D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
 D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
 D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Desarrollo\PostAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.GeneratedMSBuildEditorConfig.editorconfig
