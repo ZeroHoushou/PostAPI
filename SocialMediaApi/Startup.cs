@@ -19,7 +19,7 @@ using SocialMedia.Core.Services;
 using SocialMedia.Infrastructure.Data;
 using SocialMedia.Infrastructure.Filters;
 using SocialMedia.Infrastructure.Interfaces;
-
+using SocialMedia.Infrastructure.Options;
 using SocialMedia.Infrastructure.Repositories;
 using SocialMedia.Infrastructure.Services;
 using System;
@@ -64,9 +64,11 @@ namespace SocialMediaApi
                 });
 
             services.Configure<PaginationOptions>(Configuration.GetSection("Pagination"));
+            services.Configure<PasswordOptions>(Configuration.GetSection("PasswordOptions"));
             services.AddDbContext<SocialMediaContext>(options =>
                       options.UseSqlServer(Configuration.GetConnectionString("SocialMedia"))
                       );
+            
             //Dependencys
             //services.AddTransient<IPostRepository , PostRepository>();
             //services.AddTransient<IUserRepository, UserRepository>();
