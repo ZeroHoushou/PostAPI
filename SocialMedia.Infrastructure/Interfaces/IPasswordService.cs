@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SocialMedia.Infrastructure.Interfaces
 {
-    public interface IPasswordHasher
+    public interface IPasswordService
     {
         string Hash(string password);
         bool Check( string hash, string password);
